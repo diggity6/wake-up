@@ -15,7 +15,8 @@
      "node 51-55.js",
      "node 56-61.js",
      "node 62-66.js",
-     "node 67-71.js"
+     "node 67-71.js",
+     "node 72-76.js"
       ]
   },
  "dependencies": {
